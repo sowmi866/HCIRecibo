@@ -1,8 +1,7 @@
 # HCIRecibo
 Paperless,Cashless Intracity e-ticketing
 
-March 2021
-
+Jan 2021 session
 Sowmya Prasad - PES1201800172
 
 Keerthana Mahadev - PES1201800768
